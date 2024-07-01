@@ -52,7 +52,7 @@ function login() {
         alert('Invalid email or password');
         return;
     }
-    window.location.replace("./index.html")
+    window.location.replace("./Todolist.html")
 
     alert('Login successful!');
     

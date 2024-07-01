@@ -40,5 +40,5 @@ function Add(){
 const logout=document.getElementById("logout");
 logout.addEventListener("click",()=>{
     alert("logout");
-    window.location.replace("./form.html")
+    window.location.replace("./index.html")
 })
